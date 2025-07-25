@@ -17,3 +17,10 @@ They’re perfect for beginners to practice working with input/output and basic 
 A simple script that asks the user for their first and last name and displays a personalized greeting.
 
 ### ▶️ Sample Output:
+Enter the first number: 10
+Enter the second number: 5
+
+Addition: 15
+Subtraction: 5
+Multiplication: 50
+Division: 2.0
